@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
 * Студент: [Sergey Karpenko](https://up.htmlacademy.ru/nodejs-2/5/user/2263041).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Наумов](https://htmlacademy.ru/profile/naumov_evg).
 
 ---
 
